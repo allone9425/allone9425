@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allone9425&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allone9425&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allone9425&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allone9425&layout=compact&bg_color=00000000)
 
 <!--
 **allone9425/allone9425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
